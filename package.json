@@ -4,7 +4,8 @@
   "description": "cake",
   "main": "app.js",
   "scripts": {
-    "test": "cake"
+    "test": "cake",
+    "start":"node app.js"
   },
   "repository": {
     "type": "git",
