@@ -1,0 +1,29 @@
+{
+  "name": "cakes",
+  "version": "1.0.0",
+  "description": "cake",
+  "main": "app.js",
+  "scripts": {
+    "test": "cake"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiyunfei123/cakes.git"
+  },
+  "keywords": [
+    "cake"
+  ],
+  "author": "qyf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiyunfei123/cakes/issues"
+  },
+  "homepage": "https://github.com/qiyunfei123/cakes#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "mysql": "^2.17.1"
+  }
+}
